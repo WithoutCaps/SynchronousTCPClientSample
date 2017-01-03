@@ -1,0 +1,14 @@
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\bin\Debug\TCP Client Sample.exe.config
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\bin\Debug\TCP Client Sample.exe
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\bin\Debug\TCP Client Sample.pdb
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.csprojResolveAssemblyReference.cache
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP_Client_Sample.Form1.resources
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP_Client_Sample.Properties.Resources.resources
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.csproj.GenerateResource.Cache
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.exe
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.pdb
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\bin\Debug\TCPClient_1.0.0.dll
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Client Sample\TCP Client Sample\bin\Debug\TCPClient_1.0.0.pdb
+C:\Cloud\OneDrive\Github\C#\TCP Client Sample\TCP Client Sample\bin\Debug\TCP Client Sample.exe.config
+C:\Cloud\OneDrive\Github\C#\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.exe
+C:\Cloud\OneDrive\Github\C#\TCP Client Sample\TCP Client Sample\obj\Debug\TCP Client Sample.pdb
